@@ -1,0 +1,25 @@
+header, #table-title {
+    text-align: center;
+}
+
+#table-title {
+    color: purple;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+table {
+    margin: auto;
+}
+
+th {
+    background-color: lightpink;
+}
+
+.code {
+    background-color: beige;
+    font-family: monospace;
+}
